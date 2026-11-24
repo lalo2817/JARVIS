@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+Pillow
+psutil
+pyttsx3
+SpeechRecognition
+PyAudio
+yt-dlp
+pyautogui
+pygetwindow
+pywin32
