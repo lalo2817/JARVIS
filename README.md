@@ -1,4 +1,7 @@
-# JARVIS
+<img width="500" height="500" alt="attachment_97425804" src="https://github.com/user-attachments/assets/0f934a8a-8a40-4c07-995f-927002c067f0" />
+
+
+# JARVIS (esta en fase beta pero lo puedes instalar)
 
 programa de inteligencia artificial estilo jarvis de iron man primero debes instalar lo siguiente en tu pc
 
